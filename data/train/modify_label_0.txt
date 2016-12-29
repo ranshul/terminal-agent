@@ -1,0 +1,88 @@
+set volume to 20
+set volume to 0
+set volume to 100
+set volume to 150
+set volume to 200
+set volume to 15
+set volume to 20%
+set volume to 0%
+set volume to 100%
+set volume to 150%
+set volume to 200%
+set volume to 15%
+set volume to 20 %
+set volume to 0 %
+set volume to 100 %
+set volume to 150 %
+set volume to 200 %
+set volume to 15 %
+volume 15
+volume 20
+volume 0
+volume 40
+volume 100
+volume 15%
+volume 20%
+volume 0%
+volume 40%
+volume 100%
+volume 15 %
+volume 20 %
+volume 0 %
+volume 40 %
+volume 100 %
+volume 150
+volume 150%
+volume 150 %
+mute
+increase volume by 10
+increase volume by 20
+increase volume by 50
+increase volume by 100
+increase volume by 10%
+increase volume by 20%5
+increase volume by 550%
+increase volume by 100%
+increase volume by 10 %
+increase volume by 20 %
+increase volume by 50 %
+increase volume by 100 %
+reduce volume by 10
+reduce volume by 20
+reduce volume by 50
+reduce volume by 100
+reduce volume by 10%
+reduce volume by 20%
+reduce volume by 50%
+reduce volume by 100%
+reduce volume by 10 %
+reduce volume by 20 %
+reduce volume by 50 %
+reduce volume by 100 %
+increase volume to 10
+increase volume to 20
+increase volume to 50
+increase volume to 100
+increase volume to 10%
+increase volume to 20%
+increase volume to 50%
+increase volume to 100%
+increase volume to 10 %
+increase volume to 20 %
+increase volume to 50 %
+increase volume to 100 %
+reduce volume to 10
+reduce volume to 20
+reduce volume to 50
+reduce volume to 100
+reduce volume to 10%
+reduce volume to 20%
+reduce volume to 50%
+reduce volume to 100%
+reduce volume to 10 %
+reduce volume to 20 %
+reduce volume to 50 %
+reduce volume to 100 %
+volume 2x
+double volume
+half volume

@@ -1,0 +1,124 @@
+what is the latest movie
+what are the newest movies that are good
+what are the latst action movies
+what is taylor swift's newest album
+what is porcupine tree's latest album
+what are the headlines
+what is the latest news
+what is the latest tech news
+what is the latest technology news
+what movies released in 2016 have an imdb rating > 8
+what movies released in 2015 have an imdb rating greater than 6
+which movies released in 2016 have an imdb rating more than 8
+which movies released in 2014 have 8+ imdb rating
+which movies of 2011 have 9 imdb rating
+which 2013 movies have imdb rating 7+
+which 2012 movies have imdb rating 5+
+which 2014 moves have 8+ imdb
+which 2015 action movies have good imdb rating
+what 2016 scifi movies have good imdb rating
+which tom hanks movies have good imdb rating
+which are the best tom hanks movies
+what is the best marvel movie
+what are the best superhero movies
+what are the best 2013 superhero movies
+movies like the terminal
+latest movie
+newest movies
+8+ movies in imdb
+movies more than 8 in imdb
+movies with tom hanks
+tech news
+technology news
+politics news
+politics
+show politics news
+show latest politics news
+what are my stock prices
+show my stocks
+show stocks
+show stock prices
+stock prices
+my stocks
+stocks
+news
+headlines
+show headlines
+show news
+today's news
+show financial news
+what's happening in finance
+finance news
+financial news
+show latest financial news
+what's the latest financial news
+what's happening today
+what's going on
+what is happening today
+what is going on
+what is going on today
+what's the weather
+what is the weather
+what is today's weather
+what is the latest movie?
+what are the newest movies that are good?
+what are the latst action movies?
+what is taylor swift's newest album?
+what is porcupine tree's latest album?
+what are the headlines?
+what is the latest news?
+what is the latest tech news?
+what is the latest technology news?
+what movies released in 2016 have an imdb rating > 8?
+what movies released in 2015 have an imdb rating greater than 6?
+which movies released in 2016 have an imdb rating more than 8?
+which movies released in 2014 have 8+ imdb rating?
+which movies of 2011 have 9 imdb rating?
+which 2013 movies have imdb rating 7+?
+which 2012 movies have imdb rating 5+?
+which 2014 moves have 8+ imdb?
+which 2015 action movies have good imdb rating?
+what 2016 scifi movies have good imdb rating?
+which tom hanks movies have good imdb rating?
+which are the best tom hanks movies?
+what is the best marvel movie?
+what are the best superhero movies?
+what are the best 2013 superhero movies?
+movies like the terminal
+latest movie
+newest movies
+8+ movies in imdb
+movies more than 8 in imdb
+movies with tom hanks
+tech news
+technology news
+politics news
+politics
+show politics news
+show latest politics news
+what are my stock prices?
+show my stocks
+show stocks
+show stock prices
+stock prices
+my stocks
+stocks
+news
+headlines
+show headlines
+show news
+today's news
+show financial news
+what's happening in finance?
+finance news
+financial news
+show latest financial news
+what's the latest financial news?
+what's happening today?
+what's going on?
+what is happening today?
+what is going on?
+what is going on today?
+what's the weather?
+what is the weather?
+what is today's weather?
